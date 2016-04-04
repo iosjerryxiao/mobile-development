@@ -1,5 +1,4 @@
 # Summary
 
-* [Introduction](1. A/hahaha)
-* aaa
+* 1. A
 
