@@ -8,4 +8,5 @@
 * iOS Knowledge
    * CocoaPods Best Practices
    * iOS Universal Link Support
+   * Integrate JSPatch Practice
 
