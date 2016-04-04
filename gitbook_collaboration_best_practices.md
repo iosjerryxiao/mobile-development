@@ -3,7 +3,7 @@
 
 ## Why Gitbook
 
-Gitbook integrates seamless with Github.  
+Gitbook integrates seamlessly with Github.  
 Github 
 
 
