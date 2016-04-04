@@ -18,7 +18,13 @@ Since Gitbook integrates seamlessly with Github, so:
 
 ## Prerequisites
 
-Make sure you have both Github and Gitbook accounts. Please email your accounts to 
+Make sure you have both Github and Gitbook accounts. Please email your accounts to Jerry who will add the accounts as:
+* a member of the Gitbook team(mobiledevteam)
+* a collaborator of the Gitbook book
+* a collaborator of the Gitbook source repo in Github
+
+
+
 
 
 
