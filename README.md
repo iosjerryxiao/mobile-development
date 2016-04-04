@@ -11,8 +11,6 @@ We believe each development team should have their own blog, thus we're here.
 
 This blog servers as the knowledge base for the team.
 
-It leverages both the power of Gitbook and Github, easy to read like a book and easy to collaborate in the manner of pull requests.
-
-
+It leverages both the power of [Gitbook](https://mobiledevteam.gitbooks.io/mobile-development/content/) and [Github](https://github.com/iosjerryxiao/mobile-development), easy to read like a book and easy to collaborate in the manner of pull requests.
 
 Let's create a great book together!
