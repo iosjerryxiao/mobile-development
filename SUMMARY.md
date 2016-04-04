@@ -8,7 +8,7 @@
 * iOS Knowledge
    * [CocoaPods Best Practices](cocoapods_best_practices.md)
    * [iOS Universal Link Support](ios_universal_link_support.md)
-   * [Integrate JSPatch Practice](integrate_jspatch_practice.md)
+   * Integrate JSPatch Practice
 * Android Knowledge
-   * Bla Bla Bla
+   * [Bla Bla Bla](bla_bla_bla.md)
 
