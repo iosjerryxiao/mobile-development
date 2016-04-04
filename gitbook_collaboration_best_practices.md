@@ -17,7 +17,13 @@ Since Gitbook integrates seamlessly with Github, so:
 * Gitbook (advanced) = git + article + pull request
 
 
-## 
+## Integration with Github
+
+
+
+## Prerequisites
+
+Make sure you have both Github and Gitbook accounts. Please email your accounts to 
 
 
 
