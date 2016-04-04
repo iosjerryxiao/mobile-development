@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * Team Specific Knowledge
    * [Gitbook Best Practices](gitbook_best_practices.md)
-   * Hi
+   * Code Signing Best Practices
 
