@@ -4,12 +4,12 @@ Note: all sensitive information is omitted. Please refer to the lead or manager 
 
 ## Part 1 Environment
 
-Code repo
-Daily work & planning meeting
-Wiki
-VPN
-Helpdesk
-Email
+* Code repo
+* Daily work & planning meeting
+* Wiki
+* VPN
+* Helpdesk
+* Email
 
 ## Part 2 Bucket/Jira guidelines
 
