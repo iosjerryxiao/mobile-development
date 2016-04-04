@@ -1,3 +1,2 @@
-# Gitbook Best Practices
-
+# Gitbook Collaboration Best Practices
 
