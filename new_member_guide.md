@@ -21,6 +21,7 @@ Email
 
 Please refer to [Code Signing Best Practices](https://mobiledevteam.gitbooks.io/mobile-development/content/code_signing_best_practices.html)
 
-     Others:
-IT request for new account,  Stash account setup, Fabric, Developer Portal, TestFlight internal tester, git branch/pull request training, add to Skype groups, code familiarity, don’t touch distribution certificates
+     
+## Others:
+IT request for new account,  Bucket account setup, Fabric, Developer Portal, TestFlight internal tester, git branch and pull request training, add to Skype groups, code familiarity
 
