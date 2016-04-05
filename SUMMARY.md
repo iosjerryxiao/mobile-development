@@ -6,7 +6,7 @@
    * [Gitbook Collaboration Best Practices](gitbook_collaboration_best_practices.md)
    * [Code Signing Best Practices](code_signing_best_practices.md)
    * [Git Usage](git_usage.md)
-   * Coding Standard
+   * [Coding Standard](coding_standard.md)
 * iOS Knowledge
    * [CocoaPods Best Practices](cocoapods_best_practices.md)
    * [iOS Universal Link Support](ios_universal_link_support.md)
