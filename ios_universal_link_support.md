@@ -1,6 +1,6 @@
 # iOS Universal Link Support
 
-A main popurse of this article is to introduce my colleague of server side how to coordinate with iOS universal link feature. So I won't talk too much about client side.
+A main popurse of this article is to introduce my colleague of server side how to coordinate with iOS universal link feature. So I won't talk too much about client side. 
 
 ## App Schemes And Universal Link
 Before iOS 9 if I'd like users jump to my app from other place, I use app scheme that add an "a tag" link on a web page looks like below:
